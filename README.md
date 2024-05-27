@@ -21,7 +21,7 @@
     1. ```npm i```
     2. ```npm start```
 ## Output Newman report:
-![Screenshot 2024-02-06 103715](https://github.com/sborsha/Dmoney-Rest-API-of-Postman/assets/97577812/073d0e6f-a2ae-4a46-864e-7c833bb8e1d5)
+![Screenshot 2024-02-06 103715](https://github.com/Panthodatta96/pictures-of-demo-tests-jmeter/blob/main/Dmoney-Rest-API-of-Postman-main5.png)
 
 ## API Documentation of Postman: https://documenter.getpostman.com/view/32621543/2s9Yywez6f
 
